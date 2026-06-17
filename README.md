@@ -7,13 +7,13 @@
 Welcome to my Profile! :wave:
 <br>
 
-![](https://img.shields.io/badge/Profile_views-239,461-blue?style=flat-square)
+![](https://img.shields.io/badge/Profile_views-1532-blue?style=flat-square)
 
 <br>
 <br>
 
 [![Discord](https://img.shields.io/badge/DISCORD-PuF-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/976140626431197214)
-[![Stars](https://img.shields.io/badge/STARS-28-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GRZYBEKdsadsad)
+[![Stars](https://img.shields.io/badge/STARS-34-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GRZYBEKdsadsad)
 
 ---
 
