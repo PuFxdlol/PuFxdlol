@@ -12,7 +12,7 @@ Welcome to my Profile! :wave:
 <br>
 <br>
 
-[![Discord](https://img.shields.io/badge/DISCORD-PuF-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/976140626431197214)
+[![Discord](https://img.shields.io/badge/DISCORD-mjf6-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/976140626431197214)
 [![Stars](https://img.shields.io/badge/STARS-34-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GRZYBEKdsadsad)
 
 ---
